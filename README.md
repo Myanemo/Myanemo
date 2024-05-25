@@ -1,13 +1,17 @@
-## Hi there 👋
+## Hi 我是Myan 👋
+
+- 🔭 日常会在各大src中提交一些漏洞，研究漏洞挖掘
+- 🌱 目前是在校生，热爱web漏洞技术研究
+- 👯 当然还是一个ctfer
+
+- ⭐️ web漏洞研究:
+```
+<CVE-2023-44974 emlog CMS任意文件上传漏洞分析> https://forum.butian.net/share/2871
+```
+## T-bone ' s Link
 
 <!--
-**Myanemo/Myanemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
