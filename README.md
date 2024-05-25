@@ -9,6 +9,7 @@
 - ⭐️ web漏洞研究:
 ```
 <CVE-2023-44974 emlog CMS任意文件上传漏洞分析> https://forum.butian.net/share/2871
+<记一次某网站任意用户账号密码修改> https://xz.aliyun.com/t/14103?time__1311=mqmx9DBQ3QqCqGNDQiiQUf20iKR07AbD&alichlgref=https%3A%2F%2Fxz.aliyun.com%2Fu%2F64311
 ```
 <!--
 
